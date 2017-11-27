@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+}
+.container {
+	background-image: url(../images/dawn.png);
+	background-repeat: no-repeat;
+	-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+     -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+       -o-background-size: 100% 100%;           /* Opera 9.5 */
+          background-size: 100% 100%;  
+}
+img {
+	width: 100%;
+	vertical-align: bottom;
+}
+.kitten {
+	padding-top: 30%;
+}
